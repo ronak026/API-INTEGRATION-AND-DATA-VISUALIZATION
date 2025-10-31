@@ -28,6 +28,11 @@ A simple desktop app that shows a 5‑day temperature forecast for a given city 
 - `data_processing.py`: Extracts datetime and temperature arrays
 - `visualize.py`: Plots the temperature line chart
 - `requirements.txt`: Python dependencies
+## Images
+
+<img width="1218" height="814" alt="Screenshot 2025-10-31 170431" src="https://github.com/user-attachments/assets/e43232c2-88fa-4cea-b8a4-8e2818968696" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b2b1d979-cd6b-4dbe-960e-3f26a32be89f" />
 
 ## Prerequisites
 
