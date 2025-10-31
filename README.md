@@ -1,6 +1,17 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
+"Company":CODTECH IT SOLUTIONS
+
+"Name": Ronak Vekariya
+
 "Intern ID":CT04DR535
+
+"Domain":Python Programing
+
+"Duration":4 Weeks
+
+"Mentor":Neela Santosh
+
 A simple desktop app that shows a 5‑day temperature forecast for a given city using the OpenWeatherMap API. It fetches forecast data, extracts time/temperature series, and displays a line chart.
 
 ## Features
