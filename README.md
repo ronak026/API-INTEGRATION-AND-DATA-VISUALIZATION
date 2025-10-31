@@ -1,5 +1,5 @@
-API-INTEGRATION-AND-DATA-VISUALIZATION
-# Task 1 — Weather Dashboard (Tkinter)
+
+# Task 1 — API-INTEGRATION-AND-DATA-VISUALIZATION
 
 A simple desktop app that shows a 5‑day temperature forecast for a given city using the OpenWeatherMap API. It fetches forecast data, extracts time/temperature series, and displays a line chart.
 
